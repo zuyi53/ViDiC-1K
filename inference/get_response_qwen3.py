@@ -14,9 +14,9 @@ import argparse
 import gc
 
 
-MODEL_FOLDER = ""  
-OUTPUT_FOLDER = ""  
-LOG_FOLDER = ""  
+MODEL_FOLDER = "D:\\GithubProject\\ViDiC-1K\\models"  
+OUTPUT_FOLDER = "D:\\GithubProject\\ViDiC-1K\\output"  
+LOG_FOLDER = "D:\\GithubProject\\ViDiC-1K\\logs"  
 
 
 class VideoProcessor:
