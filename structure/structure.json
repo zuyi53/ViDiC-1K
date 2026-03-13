@@ -1,0 +1,22 @@
+[
+  {
+    "video1_path": "D:/GithubProject/ViDiC-1K/videos/origin.mp4",
+    "video2_path": "D:/GithubProject/ViDiC-1K/videos/new.mp4",
+    "structured_analysis": {
+      "Similarities": [
+        {
+          "question": "两个视频中的人物数量是否一样?",
+          "answer": "Previous answer that will be cleaned",
+          "explanation": "Previous explanation that will be cleaned"
+        }
+      ],
+      "Differences": [
+        {
+          "question": "两个视频中的摄像机焦段是否一样?",
+          "answer": "Previous answer that will be cleaned",
+          "explanation": "Previous explanation that will be cleaned"
+        }
+      ]
+    }
+  }
+]
